@@ -1,9 +1,9 @@
-#cucumber-weather
+cucumber-weather
 ===========================
 
 A BDD testing framework utilising - Selenium and Cucumber written in JAVA
 
-#####Setup Instructions
+Setup Instructions
 
 1. Clone Project
 2. Download chromedriver and extract exe to here - "C:\\Automation_Resources\chromedriver.exe"
